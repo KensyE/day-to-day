@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-07-31T03:49:44.261Z",
+    "system": "API-1",
+    "status": "up",
+    "load": 70
+  },
+  {
+    "timestamp": "2025-07-31T03:55:29.091Z",
+    "system": "API-1",
+    "status": "up",
+    "load": 97
+  },
+  {
+    "timestamp": "2025-07-31T04:03:15.963Z",
+    "system": "API-1",
+    "status": "up",
+    "load": 97
+  },
+  {
+    "timestamp": "2025-07-31T04:06:20.365Z",
+    "system": "API-1",
+    "status": "down",
+    "load": 30
+  },
+  {
+    "timestamp": "2025-07-31T04:07:11.450Z",
+    "system": "API-1",
+    "status": "down",
+    "load": 100
+  },
+  {
+    "timestamp": "2025-07-31T05:38:58.183Z",
+    "system": "API-1",
+    "status": "down",
+    "load": 100
+  },
+  {
+    "timestamp": "2025-07-31T05:39:46.123Z",
+    "system": "API-1",
+    "status": "down",
+    "load": 30
+  },
+  {
+    "timestamp": "2025-07-31T05:56:49.537Z",
+    "system": "API-1",
+    "status": "up",
+    "load": 100
+  },
+  {
+    "timestamp": "2025-07-31T05:58:49.620Z",
+    "system": "API-1",
+    "status": "up",
+    "load": 100
+  },
+  {
+    "timestamp": "2025-07-31T06:03:43.428Z",
+    "system": "API-1",
+    "status": "up",
+    "load": 100
+  }
+]
